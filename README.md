@@ -6,7 +6,7 @@ HTML5: Criação das estruturas das páginas de cadastro e login.
 
 CSS3: Estilização das telas para uma interface moderna e responsiva.
 
-<img src="_img/css" width="30%">
+<img src="_img/css.png" width="30%">
 
 JavaScript: Validações de frontend nos formulários para garantir o preenchimento correto dos campos.
 
