@@ -2,6 +2,10 @@
 
 Este projeto oferece as funcionalidades de Cadastro e Login para a plataforma Home Digital, que é voltada para o gerenciamento de reformas e decorações. As telas permitem que os usuários se registrem e autentiquem, garantindo o acesso seguro às funcionalidades da plataforma, como pesquisa de preços e consultoria de design de interiores.
 
+## Introdução
+
+A plataforma Home Digital exige que os usuários criem uma conta ou façam login para acessar os recursos personalizados, como a consultoria de design e o cadastro de produtos. Este sistema de Cadastro e Login é responsável pela autenticação e gerenciamento dos usuários. Ele foi desenvolvido com foco em simplicidade e usabilidade, oferecendo uma experiência de usuário eficiente tanto no cadastro quanto no login.
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Criação das estruturas das páginas de cadastro e login.
